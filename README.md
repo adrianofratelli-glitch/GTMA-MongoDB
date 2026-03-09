@@ -2,7 +2,7 @@
 
 🚀 **The fastest path from documents to semantic search.**
 
-A powerful CLI tool for building RAG (Retrieval-Augmented Generation) pipelines. Chunk files, generate embeddings, store in vector databases, and query with intelligent retrieval.
+A powerful CLI tool for building RAG (Retrieval-Augmented Generation) pipelines. Chunk files, generate embeddings, store in MongoDB Vector Database, and query with intelligent retrieval.
 
 ---
 
