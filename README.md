@@ -18,7 +18,8 @@ Advantage	What It Means
 ⚡ Two-Stage Retrieval	Rerank-2.5 boosts search precision by re-scoring candidates with a powerful cross-encoder
 
 ## Get started
-# Get a free API key at https://dash.voyageai.com
+
+Get a free API key at https://dash.voyageai.com
 vai quickstart    # Interactive tutorial — zero to semantic search in 2 minutes
 
 ## ✨ Features
