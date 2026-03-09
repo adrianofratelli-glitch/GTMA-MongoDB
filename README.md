@@ -17,10 +17,11 @@ Advantage	What It Means
 🏢 Domain-Specific Models	Specialized models for code, finance, law, and multilingual content that beat general-purpose alternatives
 ⚡ Two-Stage Retrieval	Rerank-2.5 boosts search precision by re-scoring candidates with a powerful cross-encoder
 
-## Get started
-
+### Get started
+```bash
 - Get a free API key at https://dash.voyageai.com
 - vai quickstart    # Interactive tutorial — zero to semantic search in 2 minutes
+```
 
 ## ✨ Features
 
