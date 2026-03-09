@@ -6,6 +6,21 @@ A powerful CLI tool for building RAG (Retrieval-Augmented Generation) pipelines.
 
 ---
 
+# Why VoyageAI?
+
+Voyage AI provides state-of-the-art embedding models with the best quality-to-cost ratio in the industry. Here's why developers choose Voyage AI:
+
+Advantage	What It Means
+🎯 #1 on RTEB	Voyage 4 ranks first on retrieval benchmarks, outperforming OpenAI, Cohere, and other providers
+💰 Up to 83% Cost Savings	Asymmetric retrieval: embed docs with voyage-4-lite, query with voyage-4-large, same quality, fraction of the cost
+🔗 Shared Embedding Space	All Voyage 4 models produce compatible embeddings, so you can mix and match for optimal cost-quality tradeoffs
+🏢 Domain-Specific Models	Specialized models for code, finance, law, and multilingual content that beat general-purpose alternatives
+⚡ Two-Stage Retrieval	Rerank-2.5 boosts search precision by re-scoring candidates with a powerful cross-encoder
+
+## Get started
+# Get a free API key at https://dash.voyageai.com
+vai quickstart    # Interactive tutorial — zero to semantic search in 2 minutes
+
 ## ✨ Features
 
 - **🔄 End-to-End RAG Pipeline**: Ingest → Embed → Store → Query in minutes
