@@ -19,8 +19,8 @@ Advantage	What It Means
 
 ## Get started
 
-Get a free API key at https://dash.voyageai.com
-vai quickstart    # Interactive tutorial — zero to semantic search in 2 minutes
+- Get a free API key at https://dash.voyageai.com
+- vai quickstart    # Interactive tutorial — zero to semantic search in 2 minutes
 
 ## ✨ Features
 
